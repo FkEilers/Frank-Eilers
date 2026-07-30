@@ -1,15 +1,29 @@
 # Frank Eilers
 
-### Hi there 👋
+###Frank Eilers
 
-New passionate and apprentice of Data Science, which has led me to embark on a constant journey of discovery. I seek to apply my skills in areas such as machine learning, data analysis, and visualization to contribute to the community and grow professionally.
+Building, in public, a knowledge architecture to help organizations turn complexity into clarity — where strategy, data, and AI meet.
 
-Experienced in Business Development and Strategy, Customer Service, and Marketing with international exposure in Latin America, Europe, and the USA. Passionate about discovering new cultures, art, and photography, as well as audiovisual production.
+I'm not claiming to be a finished expert at this. I'm documenting the building process itself: real projects, real data, real decisions — including the ones I got wrong the first time and had to correct.
 
-I am an Engineer in Administrative Sciences with a specialization in Business Management and a Master's Degree in Business Development with a focus on Digital Transformation. My skills include negotiation, project management, strategy, and business planning, as well as a solid knowledge of digital marketing, audiovisual production, and advertising.
+What that looks like in practice
+Understands the business context
+Translates business needs into systems
+Designs the architecture
+Integrates multiple data sources and services
+Works fluently with data and AI
+Coordinates AI agents as productivity multipliers
+Knows enough code to review, correct, and judge what AI generates
+A working example: Customer & Competitive Intelligence
 
-Originally from Lima, Peru, I have lived in Ecuador, Spain, and Germany, and currently reside in New York, USA. I have also lived in Costa Rica, Canada, and the United States, allowing me to gain intercultural experience and highlighting this as one of my greatest strengths.
+Premium Audio Customer & Competitive Intelligence — a system that turns thousands of Amazon reviews into structured competitive intelligence: sentiment by brand, statistically confirmed strengths and weaknesses, and a critical-alert layer that catches isolated safety signals no average would ever surface.
 
-I am a Peruvian-German citizen with high proficiency in the English language, B2 level of German, a good understanding of Portuguese, and Spanish as my mother tongue.
+Built with a multi-provider, model-agnostic AI architecture, a validation protocol with pass/fail rules fixed before seeing results, and statistical testing applied to every headline finding — including the one that didn't turn out as favorably as expected.
 
- If you are interested in connecting or collaborating, feel free to get in touch with me!
+🔗 Live dashboard · Case study repository
+
+Where the rest of this lives
+
+🔗 Website — case studies and long-form writing 🔗 Tableau Public — live dashboards 🔗 LinkedIn
+
+Most of what I build ends up as a working system, not a public code sample — the repositories here generally show the data foundations, the methodology, and the results; the analysis engines themselves are the product, not the demonstration. If a system like this could help your organization see its market or competition more clearly, I'd rather show you the result and talk it through than hand you a repository to reverse-engineer.

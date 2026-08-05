@@ -1,7 +1,5 @@
 # Frank Eilers
 
-###Frank Eilers
-
 Building, in public, a knowledge architecture to help organizations turn complexity into clarity — where strategy, data, and AI meet.
 
 I'm not claiming to be a finished expert at this. I'm documenting the building process itself: real projects, real data, real decisions — including the ones I got wrong the first time and had to correct.
